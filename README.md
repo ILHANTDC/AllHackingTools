@@ -44,10 +44,10 @@
 **1) New Tools And functions**
 - New tools for penetration testing. And many new opportunities.
 
-**2) Castomization and desing**
+**2) Customization and design**
 - Now a new customization for the terminal has been added, and a new design has been added.
 
-**3) New Desing And functions**
+**3) New design And functions**
 - The AllHackingTools installer has been updated it has got a new design and many features to check packages.
 
 **4) New design for download and update**
@@ -71,7 +71,7 @@
 apt update
 apt upgrade
 
-#Add your termux permision
+#Add your termux permission
 termux-setup-storage
 
 #Install package git
@@ -156,7 +156,7 @@ figlet -f real   AND  toilet -f real
 figlet -f pagga  AND  toilet -f pagga
 figlet -f block  AND  toilet -f block
 ```
-- [x] system desing
+- [x] system design
 - [x] Mix Tools
 - [x] technical support
 - [x] In a real break-in
@@ -265,7 +265,7 @@ If the tool fails, follow these steps:
 
 ```
 
-Desing:
+Design:
  Many bugs have been fixed
 
 Tools:
@@ -280,9 +280,9 @@ Tools:
 
 ```
 
-Desing:
+Design:
  Many bugs have been fixed
- Added New Castomization
+ Added New Customization
  New Loading animation
  Added checking for ping
 
@@ -304,10 +304,10 @@ Build:
 Tools:
  Many new utilities have been added
 
-Desing:
+Design:
  Many bugs have been fixed
- Added New Castomization
- Added Castomization for loading
+ Added New Customization
+ Added Customization for loading
 
 #Thanks for reviewing the update list. 
 #Bye bye Have a nice day!
@@ -321,7 +321,7 @@ Desing:
 Tools:
  Many new utilities have been added
 
-Desing:
+Design:
  Many bugs have been fixed
  Added New Commands
  Added New Castomization
@@ -338,10 +338,10 @@ Desing:
 Tools:
  Many new utilities have been added
 
-Desing:
+Design:
  Many bugs have been fixed
  New logo designs were added
- New Menu desings were added
+ New Menu designs were added
  New AllHackingTools download design 
 
 #Thanks for reviewing the update list. 
@@ -357,7 +357,7 @@ Tools:
  Two new menu options have been added
  Many new utilities have been added
 
-Desing:
+Design:
  Many bugs have been fixed
  Two new logo designs were added
 
